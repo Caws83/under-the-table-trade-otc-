@@ -1,0 +1,19 @@
+node_modules/
+.next/
+out/
+cache/
+broadcast/
+coverage/
+*.log
+tsconfig.tsbuildinfo
+.env
+.env.*
+!.env.example
+.anvil-keys
+deployments/local.json
+
+# Foundry
+cache/
+out/
+broadcast/
+lib/**/.git

@@ -1,0 +1,10 @@
+lib/openzeppelin-contracts
+lib/forge-std
+node_modules
+.next
+out
+cache
+broadcast
+contracts
+test
+script
